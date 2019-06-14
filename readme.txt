@@ -12,4 +12,4 @@ Improve your site SEO and performance.
 
 == Description ==
 
-Improve your site SEO and performance. More info on [https://renatello.com/instant-performance-seo/](https://renatello.com/instant-performance-seo/).
+Improve your site SEO and performance. More info on [https://renatello.com/instant-seo/](https://renatello.com/instant-seo/).
