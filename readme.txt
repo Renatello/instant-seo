@@ -3,7 +3,7 @@ Contributors: renatello
 Tags: instant, performance, seo
 Requires at least: 4.2
 Tested up to: 5.2
-Stable tag: 1.2.2.1
+Stable tag: 1.1
 Requires PHP: 5.2.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
